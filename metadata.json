@@ -1,0 +1,6 @@
+{
+  "name": "1분 F1 피트스탑 챌린지 - F1 Pit Stop Challenge",
+  "description": "60초 동안 정확하고 신속하게 타이어 교체 및 휠 너트를 체결하여 세계 기록에 도전하는 초고속 F1 피트 크루 시뮬레이터 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
